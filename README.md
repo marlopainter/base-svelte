@@ -18,5 +18,5 @@ I wanted to create a Template for starting new projects.
 If you use this, the port is set to 420 in the vite.config.  
 I have script 'p' that opens to my localip:420.  
   
-I use BUN instead on NPM.  
+I use BUN instead of NPM.  
   
