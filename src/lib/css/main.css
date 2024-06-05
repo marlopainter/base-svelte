@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+	.btn {
+		@apply btn-sm h-[2.2rem] shadow-md shadow-black;
+	}
+} */
+
+/* html {
+	scrollbar-gutter: stable;
+} */
